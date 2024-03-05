@@ -19,4 +19,4 @@ We're thrilled to have you on board! Whether you're a seasoned developer or just
 
 📞 **Get in Touch**
 
-Elevate your UAV capabilities with ThunderFly. Reach out to us at sale@thunderfly.cz or explore our website [www.thunderfly.cz](https://www.thunderfly.cz) to learn more.
+Elevate your UAV capabilities with ThunderFly. Reach out to us at sale@thunderfly.cz or explore our website [www.thunderfly.cz](https://www.thunderfly.cz/contact-us.html) to learn more.
