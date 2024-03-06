@@ -11,7 +11,9 @@ We're thrilled to have you on board! Whether you're a seasoned developer or just
 - **Code Contributions:** Want to contribute directly? Great! Check out our [Contributing Guide](#) for guidelines on how to submit a pull request.
 - **Feedback:** Your feedback is valuable. Feel free to send us your thoughts on our tools or documentation.
 -->
-  
+
+![ThunderFly products](/img/TF_mosaic.jpg)
+
 👩‍💻 **Useful Resources**
 
 - **Documentation:** Dive into our [documentation](https://docs.thunderfly.cz/) for detailed guides and application references.
