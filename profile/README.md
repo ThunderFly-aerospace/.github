@@ -12,7 +12,7 @@ We're thrilled to have you on board! Whether you're a seasoned developer or just
 - **Feedback:** Your feedback is valuable. Feel free to send us your thoughts on our tools or documentation.
 -->
 
-![ThunderFly products](/img/TF_mosaic.jpg)
+![ThunderFly products](/profile/img/TF_mosaic.jpg)
 
 👩‍💻 **Useful Resources**
 
