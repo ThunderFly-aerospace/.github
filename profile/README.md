@@ -1,24 +1,16 @@
-### Welcome to ThunderFly's GitHub!
+### Welcome to ThunderFly's GitHub!  
 
-At [ThunderFly s.r.o.](https://www.thunderfly.cz/), we're on a mission to push the boundaries of UAV technology. Specializing in harsh weather-resistant UAVs, atmospheric measurement sensors, and specialized avionics devices, our solutions are designed to enhance UAV capabilities significantly. From atmospheric measurements to advanced avionics, our product lines are crafted for precision, reliability, and innovation.
+At [ThunderFly s.r.o.](https://www.thunderfly.cz/), we specialize in cutting-edge UAV technology, focusing on **harsh-weather-resistant UAVs, atmospheric measurement sensors, and advanced avionics**. Our products are designed and manufactured in the **European Union**, ensuring high standards of quality, precision, and reliability.  
 
-<!--
-🌈 **Contribution Guidelines**
+With a strong foundation in **aerospace engineering and research**, we develop solutions that enhance UAV capabilities, whether for atmospheric studies, environmental monitoring, or specialized avionics applications.  
 
-We're thrilled to have you on board! Whether you're a seasoned developer or just starting, there's a place for you here. Would you be interested in contributing? Here's how you can get started:
+![ThunderFly products](/profile/img/TF_mosaic.jpg)  
 
-- **Issue Reporting:** Found a bug or have a feature request? Post an issue to the relevant repository.
-- **Code Contributions:** Want to contribute directly? Great! Check out our [Contributing Guide](#) for guidelines on how to submit a pull request.
-- **Feedback:** Your feedback is valuable. Feel free to send us your thoughts on our tools or documentation.
--->
+👩‍💻 **Useful Resources**  
 
-![ThunderFly products](/profile/img/TF_mosaic.jpg)
+- **Documentation:** Explore our [documentation](https://docs.thunderfly.cz/) for detailed guides and application references.  
+- **Support:** Need help? Contact our support team at support@thunderfly.cz.  
 
-👩‍💻 **Useful Resources**
+📞 **Get in Touch**  
 
-- **Documentation:** Dive into our [documentation](https://docs.thunderfly.cz/) for detailed guides and application references.
-- **Support:** Need help? Contact our support team at support@thunderfly.cz. <!-- or visit our [FAQ page](https://www.thunderfly.cz/faq).-->
-
-📞 **Get in Touch**
-
-Elevate your UAV capabilities with ThunderFly. Reach out to us at sale@thunderfly.cz or explore our website [www.thunderfly.cz](https://www.thunderfly.cz/contact-us.html) to learn more.
+Discover how ThunderFly can elevate your UAV operations. Contact us at sale@thunderfly.cz or visit [www.thunderfly.cz](https://www.thunderfly.cz/contact-us.html) to learn more.  
