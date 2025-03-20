@@ -1,8 +1,8 @@
 ### Welcome to ThunderFly's GitHub!  
 
-At [ThunderFly s.r.o.](https://www.thunderfly.cz/), we specialize in cutting-edge UAV technology, focusing on **harsh-weather-resistant UAVs, atmospheric measurement sensors, and advanced avionics**. Our products are designed and manufactured in the **European Union**, ensuring high standards of quality, precision, and reliability.  
+At [ThunderFly s.r.o.](https://www.thunderfly.cz/), we specialize in cutting-edge UAV technology, focusing on **harsh-weather-resistant UAVs, atmospheric measurement sensors, and advanced avionics**. Our products are designed and manufactured in the **European Union**, ensuring high standards of quality, and reliability.  
 
-With a strong foundation in **aerospace engineering and research**, we develop solutions that enhance UAV capabilities, whether for atmospheric studies, environmental monitoring, or specialized avionics applications.  
+With a strong foundation in RF hardware design with a connection to aerospace engineering and research. We developed solutions that enhance UAV capabilities for atmospheric studies and environmental monitoring.  
 
 ![ThunderFly products](/profile/img/TF_mosaic.jpg)  
 
@@ -13,4 +13,4 @@ With a strong foundation in **aerospace engineering and research**, we develop s
 
 📞 **Get in Touch**  
 
-Discover how ThunderFly can elevate your UAV operations. Contact us at sale@thunderfly.cz or visit [www.thunderfly.cz](https://www.thunderfly.cz/contact-us.html) to learn more.  
+Discover how ThunderFly can elevate your UAV operations. Contact us at sale@thunderfly.cz or visit [www.thunderfly.cz](https://www.thunderfly.cz/contact-us.html) to found more.  
