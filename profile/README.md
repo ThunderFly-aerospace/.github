@@ -6,11 +6,11 @@ With a strong foundation in RF hardware design, with a connection to aerospace e
 
 ![ThunderFly products](/profile/img/TF_mosaic.jpg)  
 
-👩‍💻 **Useful Resources**  
+#### Useful Resources  
 
 - **Documentation:** Explore our [documentation](https://docs.thunderfly.cz/) for detailed guides and application references.  
 - **Support:** Need help? Contact our support team at support@thunderfly.cz.  
 
-📞 **Get in Touch**  
+#### Get in Touch  
 
-Discover how ThunderFly can improve your UAV operations. Contact us at sale@thunderfly.cz or visit [www.thunderfly.cz](https://www.thunderfly.cz/contact-us.html) to find more.  
+Discover how ThunderFly can improve your UAV operations. 📞 Contact us at sale@thunderfly.cz or visit [www.thunderfly.cz](https://www.thunderfly.cz/contact-us.html) to find more.  
